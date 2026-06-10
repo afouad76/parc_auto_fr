@@ -95,7 +95,7 @@ parc_auto_fr/
 
 ### Évolution des motorisations
 
-![Évolution des motorisations](figures/evolution_motorisation.png)
+![Évolution des motorisations](figures/evoulution_motorisation.png)
 
 ### Top 10 des départements les plus électrifiés
 
