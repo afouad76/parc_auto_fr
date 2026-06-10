@@ -90,6 +90,21 @@ parc_auto_fr/
 * Analyse territoriale
 * Git et reproductibilité
 
+
+## Résultats
+
+### Évolution des motorisations
+
+![Évolution des motorisations](figures/evolution_motorisation.png)
+
+### Top 10 des départements les plus électrifiés
+
+![Top 10 départements](figures/top10_departements.png)
+
+### Cartographie de l'électrification
+
+![Carte électrique](figures/carte_electrique.png)
+
 ---
 
 ## Auteur
